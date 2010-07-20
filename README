@@ -1,0 +1,14 @@
+Nagios Dashboard Readme
+===============================================
+
+
+Requirements:
+-Nagios
+-Merlin
+
+Installation: 
+Download the 2 php files to your server.
+Edit merlin.php and change the user/pass/dbserver
+so it suits your environment.
+
+
